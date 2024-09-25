@@ -1,0 +1,5 @@
+outs:
+- md5: 3c4919403f6ac0f6e22d951d07f2445e
+  size: 2625
+  hash: md5
+  path: nutrition_data.csv
